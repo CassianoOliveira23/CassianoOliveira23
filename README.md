@@ -20,6 +20,8 @@
   </div>
 
 
+![Snake animation](https://github.com/CassianoOliveira23/CassianoOliveira23/blob/output/github-contribution-grid-snake.svg)
+
 
  
 
