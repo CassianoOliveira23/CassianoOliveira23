@@ -9,14 +9,19 @@
   <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <a href="https://api.whatsapp.com/send?phone=5551989340681" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
 </div>
+
+
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CassianoOliveira23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=CassianoOliveira23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=false&order=1" height="185" alt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CassianoOliveira23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=great-gatsby&hide_border=false&order=2" height="185" alt="languages graph"  />
+
 </div>
 
 ###
@@ -48,6 +53,14 @@
 </div>
 
 ###
+
+<!-- Portfolio -->
+## Portfolio:
+- [Data analysis](https://github.com/CassianoOliveira23/data_analysis_project.git)
+- [Wolpeer E-commerce](https://github.com/CassianoOliveira23/E-commerce_Wolpeer.git)
+- [API Books](https://github.com/CassianoOliveira23/api_books.git)
+- [Register Page - MVC](https://github.com/CassianoOliveira23/mvc_listas_php.git)
+- [Portfolio Front-End](https://github.com/CassianoOliveira23/portfolio_frontend.git)
  
 
 
