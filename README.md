@@ -1,23 +1,53 @@
-### 
-<h1 align="center"> Hi there, my name is Cassiano</h1>
-  
- <div>
-  <img  src="https://github-readme-stats.vercel.app/api?username=CassianoOliveira23&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img  height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassianoOliveira23&layout=compact&langs_count=16&theme=great-gatsby"/>
+<h1 align="center">Hi there, My name is Cassiano</h1>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/cassiano-oliveira-074950a7/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
 </div>
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center"> Technologies </h1>
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  </div>
 
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CassianoOliveira23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CassianoOliveira23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=great-gatsby&hide_border=false&order=2" height="185" alt="languages graph"  />
+</div>
+
+###
+
+<p align="left"></p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="40" alt="symfony logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+</div>
+
+###
  
 
 
