@@ -41,10 +41,11 @@
 <!-- Portfolio -->
 ## Portfolio:
 - [Data analysis](https://github.com/CassianoOliveira23/data_analysis_project.git)
-- [Wolpeer E-commerce](https://github.com/CassianoOliveira23/E-commerce_Wolpeer.git)
+- [Portfolio Front-End](https://portfolio-frontend-dusky-two.vercel.app/)
+- [Wolpeer E-commerce](https://e-commerce-wolpeer.vercel.app/)
 - [API Books](https://github.com/CassianoOliveira23/api_books.git)
 - [Register Page - MVC](https://github.com/CassianoOliveira23/mvc_listas_php.git)
-- [Portfolio Front-End](https://github.com/CassianoOliveira23/portfolio_frontend.git)
+
 
   ###
 
