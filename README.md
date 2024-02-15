@@ -41,6 +41,7 @@
 <!-- Portfolio -->
 ## Portfolio:
 - [Data analysis](https://github.com/CassianoOliveira23/data_analysis_project.git)
+- [Hashflix Django](https://github.com/CassianoOliveira23/Hashflix-Django.git)
 - [Portfolio Front-End](https://portfolio-frontend-dusky-two.vercel.app/)
 - [Reserva E-commerce clone](https://github.com/CassianoOliveira23/ecommerce-store.git)
 - [API Books](https://github.com/CassianoOliveira23/api_books.git)
