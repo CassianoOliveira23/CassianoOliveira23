@@ -2,9 +2,9 @@
 
 ###
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=CassianoOliveira23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=false&order=1" height="185" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CassianoOliveira23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=15&theme=great-gatsby&hide_border=false&order=2" height="185" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CassianoOliveira23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=false&order=1" height="250" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CassianoOliveira23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=15&theme=great-gatsby&hide_border=false&order=2" height="250" alt="languages graph"  />
 
 </div>
 
