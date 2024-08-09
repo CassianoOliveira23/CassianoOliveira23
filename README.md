@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<!--<h2 align="left">I code with</h2>
 
 ###
 
@@ -33,12 +33,11 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="csharp logo"  />
 
-</div>
+</div>-->
 
 ###
 
-<h2 align="left">Tools</h2>
-<div align="left">
+<div align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="50" height="50"/>
   <img width="10" />
   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="50" height="50"/> 
